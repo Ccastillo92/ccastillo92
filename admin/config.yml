@@ -120,7 +120,7 @@ collections:
     media_library:
       config:
         multiple: false
-    name: avatar_filename
+    name: avatar.jpg
     required: false
     widget: image
   - label: Short biography (shown in author boxes)
